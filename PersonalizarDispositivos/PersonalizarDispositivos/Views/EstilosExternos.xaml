@@ -4,13 +4,26 @@
              x:Class="PersonalizarDispositivos.Views.EstilosExternos">
     <ContentPage.Content>
         <StackLayout>
-            <Button Text="Estilos externos!!!"
-                    HorizontalOptions="FillAndExpand"
-                    VerticalOptions="CenterAndExpand"
-                    Style="{StaticResource botonrojo}"/>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label FontSize="Large">
+                <Label.Text>
+                    <OnPlatform x:TypeArguments="x:String">
+                        <On Platform="iOS" Value="Piensa McFly, piensa"/>
+                        <On Platform="Android" Value="Soy Batman"/>
+                        <On Platform="UWP" Value="No he triunfado..."/>
+                    </OnPlatform>
+                </Label.Text>
+                <Label.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String">
+                        <On Platform="iOS"
+                            Value="Back to the future 2002"/>
+                        <On Platform="Android"
+                            Value="batman.ttf#BatmanForeverAlternate"/>
+                    </OnPlatform>
+                </Label.FontFamily>
+            </Label>
+            <StackLayout x:Name="contenedor">
+                
+            </StackLayout>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
