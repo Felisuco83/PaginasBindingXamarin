@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PersonalizarDispositivos.Views.PaginaEstilosCSS">
+    <ContentPage.Resources>
+        <StyleSheet Source="../Styles/estilos.css"/>
+        <Style TargetType="Frame">
+            <Setter Property="CornerRadius" Value="25"/>
+            <Setter Property="BorderColor" Value="Blue"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Text" Value="Read more..."/>
+            <Setter Property="CornerRadius" Value="20"/>
+        </Style>
+    </ContentPage.Resources>
+    
+    <ContentPage.Content>
+        <ScrollView Orientation="Both">
+            <StackLayout>
+                <Frame>
+                    <StackLayout>
+                        <Label Text="Batman" StyleClass="header"/>
+                        <Label Text="Bla bla bla"/>
+                        <Label Text="Bla bla bla"/>
+                        <Label Text="Bla bla bla"/>
+                        <Image Source="https://www.lego.com/cdn/cs/set/assets/blt167d8e20620e4817/DC_-_Character_-_Details_-_Sidekick-Standard_-_Batman.jpg"/>
+                        <Button/>
+                    </StackLayout>
+                </Frame>
+                <Frame>
+                    <StackLayout>
+                        <Label Text="Marty MacFly" StyleClass="header"/>
+                        <Label Text="Bla bla bla"/>
+                        <Label Text="Bla bla bla"/>
+                        <Label Text="Bla bla bla"/>
+                        <Image Source="https://images-na.ssl-images-amazon.com/images/I/71EymRm6ngL._SX425_.jpg"/>
+                        <Button/>
+                    </StackLayout>
+                </Frame>
+                <Frame>
+                    <StackLayout>
+                        <Label Text="Gizmo" StyleClass="header"/>
+                        <Label Text="No dar de comer despues de las 0:00"/>
+                        <Label Text="Bla bla bla"/>
+                        <Label Text="Bla bla bla"/>
+                        <Image Source="https://cloud10.todocoleccion.online/reproducciones-figuras-accion/tc/2019/02/05/10/149926614.jpg"/>
+                        <Button/>
+                    </StackLayout>
+                </Frame>                
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
