@@ -1,0 +1,14 @@
+C:\Xamarin\XamarinBBDD\XamarinBBDD\XamarinBBDD\XamarinBBDD\bin\Debug\netstandard2.0\XamarinBBDD.deps.json
+C:\Xamarin\XamarinBBDD\XamarinBBDD\XamarinBBDD\XamarinBBDD\bin\Debug\netstandard2.0\XamarinBBDD.dll
+C:\Xamarin\XamarinBBDD\XamarinBBDD\XamarinBBDD\XamarinBBDD\bin\Debug\netstandard2.0\ref\XamarinBBDD.dll
+C:\Xamarin\XamarinBBDD\XamarinBBDD\XamarinBBDD\XamarinBBDD\bin\Debug\netstandard2.0\XamarinBBDD.pdb
+C:\Xamarin\XamarinBBDD\XamarinBBDD\XamarinBBDD\XamarinBBDD\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\XamarinBBDD\XamarinBBDD\XamarinBBDD\XamarinBBDD\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\XamarinBBDD\XamarinBBDD\XamarinBBDD\XamarinBBDD\obj\Debug\netstandard2.0\Views\ContactosView.xaml.g.cs
+C:\Xamarin\XamarinBBDD\XamarinBBDD\XamarinBBDD\XamarinBBDD\obj\Debug\netstandard2.0\XamarinBBDD.AssemblyInfoInputs.cache
+C:\Xamarin\XamarinBBDD\XamarinBBDD\XamarinBBDD\XamarinBBDD\obj\Debug\netstandard2.0\XamarinBBDD.AssemblyInfo.cs
+C:\Xamarin\XamarinBBDD\XamarinBBDD\XamarinBBDD\XamarinBBDD\obj\Debug\netstandard2.0\XamarinBBDD.csproj.CoreCompileInputs.cache
+C:\Xamarin\XamarinBBDD\XamarinBBDD\XamarinBBDD\XamarinBBDD\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\XamarinBBDD\XamarinBBDD\XamarinBBDD\XamarinBBDD\obj\Debug\netstandard2.0\XamarinBBDD.dll
+C:\Xamarin\XamarinBBDD\XamarinBBDD\XamarinBBDD\XamarinBBDD\obj\Debug\netstandard2.0\ref\XamarinBBDD.dll
+C:\Xamarin\XamarinBBDD\XamarinBBDD\XamarinBBDD\XamarinBBDD\obj\Debug\netstandard2.0\XamarinBBDD.pdb
